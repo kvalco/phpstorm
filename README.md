@@ -1,8 +1,3 @@
-# phpstorm
-My personal PhpStorm settings.
-
-
-
 # SK
 Moje osobné PhpStorm nastavenia, inšpirované od programu Sublime Text 3. Nastavenia používam na rôzne jazyky, napr. HTML, CSS, SASS, PHP, JAVASCRIPT a ďalšie.
 
